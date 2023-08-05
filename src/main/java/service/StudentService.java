@@ -17,7 +17,7 @@ public class StudentService {
         student.setName("Name");
         student.setCourse("BCA");
         student.setStartDate("05/08/2023");
-        student.setEndDate("08/01/2026");
+        student.setEndDate("08/01/2025");
         studentList.add(student)
 
 
